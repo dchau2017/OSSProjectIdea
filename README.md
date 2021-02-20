@@ -9,10 +9,6 @@ We would probably run ads on the site/mobile version to generate ad revenue. We 
 free/paid version. In the paid version, users can schedule rides further out and have a schedule rides.
 
 
-
-A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
-
-
 # License
 We chose the Apachae license since it requires that any potential users includes the required notices and it ensures that the creators
 and future authors get proper credit for their work. This way, any editors of the original source code must note their changes which allows other users to determine who created any malicious code. 
