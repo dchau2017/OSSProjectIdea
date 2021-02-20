@@ -15,4 +15,5 @@ A permissive license whose main conditions require preservation of copyright and
 
 # License
 We chose the Apachae license since it requires that any potential users includes the required notices and it ensures that the creators
-and future authors get proper credit for their work. The license also contains a patent license from contributors of the code which prevents copyright issues down the line. 
+and future authors get proper credit for their work. This way, any editors of the original source code must note their changes which allows other users to determine who created any malicious code. 
+The license also contains a patent license from contributors of the code which prevents copyright issues down the line. 
